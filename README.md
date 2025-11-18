@@ -26,7 +26,6 @@ conda activate env (or: source activate env)
 
 #### Install pip and dependencies:
 
-conda install pip
 pip install -r requirements.txt
 
 #### Run the app:
