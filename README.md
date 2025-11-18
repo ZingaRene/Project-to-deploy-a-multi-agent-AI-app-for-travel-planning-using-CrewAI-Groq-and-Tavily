@@ -14,24 +14,24 @@ Aplicações de IA orientadas a agentes em cenários práticos e de alto valor.
 
 # How to run the project
 
-## Open the terminal or command prompt, navigate to the folder with the files, and run the command below to create a virtual environment:
+#### Open the terminal or command prompt, navigate to the folder with the files, and run the command below to create a virtual environment:
 
 conda create --name env python=3.13
 
-## Activate the environment:
+#### Activate the environment:
 
 conda activate env (or: source activate env)
 
-## Install pip and dependencies:
+#### Install pip and dependencies:
 
 conda install pip
 pip install -r requirements.txt
 
-# Run the app:
+#### Run the app:
 
 streamlit run project_app.py
 
-## Use the commands below to deactivate the virtual environment and remove the environment (optional):
+#### Use the commands below to deactivate the virtual environment and remove the environment (optional):
 
 conda deactivate
 conda remove --name env --all
