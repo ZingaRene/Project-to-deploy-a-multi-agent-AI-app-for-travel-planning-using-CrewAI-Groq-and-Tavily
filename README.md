@@ -6,11 +6,9 @@ The solution integrates CrewAI for collaborative orchestration between agents, G
 
 Each agent assumes a specialized role (research, logistics planning, and final itinerary development), working sequentially to transform simple user inputs, such as destination, duration, and interests, into a structured and ready-to-use itinerary.
 
-O projeto explora conceitos essenciais de aplicações em produção, como integração de APIs, variáveis de ambiente seguras, orquestração de tarefas, automação de decisões, 
-experiência interativa via Streamlit e boas práticas de organização em sistemas Multi-Agentes. 
+The project explores essential concepts for production applications, such as API integration, secure environment variables, task orchestration, decision automation, interactive experience via Streamlit, and best practices for organization in multi-agent systems.
 
-O resultado é um sistema que combina “raciocínio”, consulta externa, planejamento e geração de conteúdo, representando um exemplo real de como arquitetar, implantar e escalar 
-Aplicações de IA orientadas a agentes em cenários práticos e de alto valor.
+The result is a system that combines "reasoning," external querying, planning, and content generation, representing a real-world example of how to architect, deploy, and scale agent-driven AI applications in practical, high-value scenarios.
 
 ![Interface](Agent.png)
 
